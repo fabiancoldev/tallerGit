@@ -20,13 +20,9 @@ html {
     color: #fff;
   }
 
-  .hero {
-    background: url(img/serenidad.png) center;
+  .hero{
+    width: 20px;
+    height: 10px;
     background-size: cover;
-    height: 100vh;
-  }
-
-  .img{
-    max-width: 1200px;
-    margin: 0 auto;
+    max-width: 100%;
   }
