@@ -16,8 +16,17 @@ html {
     color: brown;
   }
 
+  li{
+    color: #fff;
+  }
+
   .hero {
     background: url(img/serenidad.png) center;
     background-size: cover;
     height: 100vh;
+  }
+
+  .img{
+    max-width: 1200px;
+    margin: 0 auto;
   }
