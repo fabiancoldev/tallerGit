@@ -26,3 +26,13 @@
     background-color:aqua;
 }
 
+.habilidades{
+    background-color:antiquewhite;
+    box-sizing: border-box;
+}
+#titulo_habilidades{
+    text-align: center;
+    padding: 10px;
+}
+
+
