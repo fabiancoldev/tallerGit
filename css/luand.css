@@ -1,0 +1,28 @@
+html {
+    font-family: system-ui;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  h1{
+    color: brown;
+  }
+  p{
+    color: brown;
+  }
+
+  li{
+    color: #fff;
+  }
+
+  .hero{
+    width: 20px;
+    height: 10px;
+    background-size: cover;
+    max-width: 100%;
+  }
