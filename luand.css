@@ -1,10 +1,10 @@
 html {
     font-family: system-ui;
   }
-
-  body {
-    margin: 0;
-    padding: 0;
+  .hero {
+    background: url(img/serenidad.png) center;
+    background-size: cover;
+    height: 100vh;
   }
   a {
     text-decoration: none;
