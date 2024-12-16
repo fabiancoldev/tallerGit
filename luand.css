@@ -1,11 +1,6 @@
 html {
     font-family: system-ui;
   }
-  .hero {
-    background: url(img/serenidad.png) center;
-    background-size: cover;
-    height: 100vh;
-  }
   a {
     text-decoration: none;
   }
@@ -19,4 +14,10 @@ html {
   }
   p{
     color: brown;
+  }
+
+  .hero {
+    background: url(img/serenidad.png) center;
+    background-size: cover;
+    height: 100vh;
   }
